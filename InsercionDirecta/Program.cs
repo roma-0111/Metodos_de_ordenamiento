@@ -7,6 +7,11 @@ class Program
 {
     static void Main(string[] args)
     {
+        //                  Inserción directa
+        //Se muestra el uso del inserción directa, y este es utilizado solo para cosas chicas.
+
+        //Romano Brian - Desarrollador C#
+
         int[] numeros = { 3, 2, 1, 9, 12 };
 
         Console.WriteLine("Su orden originalmente: ");
@@ -48,6 +53,8 @@ class Program
         {
             Console.Write(numero + " ");
         }    
-        Console.WriteLine("");
+
+
+
     }
 }
